@@ -9,8 +9,11 @@ The first step in solving this problem is to determine what you are asked to do.
 The data requirements and the relevant formulas are listed below. Miles identifies the memory cells that will contain the problem input, and kms identify the memory cell that will contain the program result, or the program output.
 
 Data requirements
+
 Problem input:  ```miles /*the distance in miles*/```
+
 Problem output: ```kms /*the distance in kilometres*/```
+
 Relevant formula: ```1 miles =  1.609 kilometers```
 
 # DESIGN
@@ -25,6 +28,7 @@ Algorithm
 Now decide whether any step of the algorithm need further refinement or whether they are perfectly clear as stated. Step 1 (getting the data) and Step 3 (displaying a value) are basic steps and require no further refinement. Step 2 is fairly straightforward, but some detail might help:
 
 Step 2 Refinement
+
 2.1 The distance in kilometres is 1.609 times the distance in miles.
 
 We list the complete algorithm with refinements below to show you how it all fits together. The algorithm resembles an outline for a term paper. The refinement of Step 2 is numbered as Step 2.1 and is indented under Step 2.
