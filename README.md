@@ -1,7 +1,11 @@
-All exercises taken from this book:
+# Coding Exercises in C, Python & Java
+
+**All case studies are taken from this book:**
 
 ![Imgur](https://imgur.com/rdCKMNt.png)
 
+| Details | Description |
+|---|---|
 | Title | PROBLEM SOLVING AND PROGRAM DESIGN IN C |
 | Edition | EIGHT EDITION, GLOBAL EDITION |
 | Author | JERI R. HANLY, ELLIOT B. KOFFMAN |
