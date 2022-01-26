@@ -1,5 +1,11 @@
 All exercises taken from this book:
 
-![Image of C Program Design for Engineers](https://pearson.com.au/MC_images/_amazon/9780201708714.jpg)
+![Imgur](https://imgur.com/rdCKMNt.png)
 
-ISBN 0-321-20417-4
+| Title | PROBLEM SOLVING AND PROGRAM DESIGN IN C |
+| Edition | EIGHT EDITION, GLOBAL EDITION |
+| Author | JERI R. HANLY, ELLIOT B. KOFFMAN |
+| Publisher | PEARSON |
+| Year | 2016 |
+| ISBN 10 | 1-292-09881-3 |
+| ISBN 13 | 978-1-292-09881-4 |
